@@ -1,0 +1,165 @@
+body
+{
+    text-align: center;
+}
+#heh{
+    font-family:inherit;
+    font-size:40px; 
+}
+#lol{
+    font-family:sans-serif;
+    font-size:20px; 
+}
+.suctioncupman{
+    height: 6px;
+    background-color: #000;
+    width: 500px;
+    margin: 8px auto;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+	padding-top:10px; 
+}
+#life {
+    padding: 50px;
+    text-align: center;
+	text-align:center 
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe{
+    width: 100%;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    text-shadow: none;
+}
+#videos iframe{
+    width: 80%;
+}
+input{
+    background: grey;
+}
+#teachingbuilding{
+	width:60% 
+}
+#fok{
+	padding-top:5px; 
+	background-color:bisque;
+	font-size:20px;
+	position:static; 
+	font-family:inherit;
+	width:100% 
+}
+#cam{
+	width:30%;
+}
+#lol{
+	padding-top:10px; 
+}
+#news a{
+	font-size:30px; 
+}
+#why{
+	margin-top:40px; 
+}
+#con{
+	margin-top:20px;
+}
+#contacts{
+	background-color:aliceblue;
+	margin-top:10px; 
+}
+.movie_head{
+    font-size:22px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px; 
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color:gold;
+}
+.text{
+	text-align:left;
+}
+.book{
+    cursor:pointer;
+}
+.modal-content{
+    margin-top:100px; 
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top:10px; 
+}
+#sans{
+	font-size:5px; 
+}
+#grad{
+	width:400px;
+	height:200px; 
+}
+#ik{
+	height:190px;
+}
+.memo{
+	border:solid;
+	border-color:grey;
+	border-width:medium;
+	padding:7px;
+	margin:10px; 
+	border-radius:10px;
+	background-color:aliceblue; 
+}
+.memo p{
+	margin-top:5px;
+	text-align:left; 
+}
+#quick{
+	padding-bottom:30px; 
+}
+#contacts{
+	padding:50px; 
+}
+#two{
+	margin-top:10px; 
+}
+.book{
+    cursor:pointer;
+}
+.modal-content{
+    margin-top:100px; 
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top:10px; 
+}
+#tank{
+	margin-top:270px;
+	margin-right:112px 
+}
